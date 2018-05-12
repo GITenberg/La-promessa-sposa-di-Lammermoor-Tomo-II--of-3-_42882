@@ -1,0 +1,38 @@
+_repo: La-promessa-sposa-di-Lammermoor-Tomo-II--of-3-_42882
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42882-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Cleishbotham, Jedediah
+    - Scott, Sir Walter
+    - Malagrowther, Malachi
+    - Templeton, Laurence
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_bookshelf: IT Romanzi storici
+gutenberg_issued: '2013-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42882'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Historical fiction'
+- !lcsh 'Scotland -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Arranged marriage -- Fiction'
+- !lcsh 'Women murderers -- Fiction'
+title: La promessa sposa di Lammermoor, Tomo 2 (of 3)
+url: http://www.gutenberg.org/ebooks/42882
